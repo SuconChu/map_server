@@ -1,3 +1,5 @@
+解决cartographer生成图只有未知和空闲
+
 The map_server was a part of [Navigation Stack](http://wiki.ros.org/map_server?distro=melodic)
 
 It provides the map_saver to save the map topic(nav_msgs/OccupancyGrid) to disk in `.pgm` + `.yaml` form.
